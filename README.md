@@ -15,9 +15,9 @@
 
 ---
 
-## 📺 Screenshot (Click the image to watch the video on YouTube):
+## 📺 Screenshot (Click the image to watch the video):
 
-[![Screenshot](https://i.postimg.cc/T19R4ZRB/1.png)](https://youtu.be/PU6n8ACHq_I)
+[![Screenshot](https://i.postimg.cc/bvcwd0BN/1.png)](https://video.benzitools.net)
 
 
 ---
