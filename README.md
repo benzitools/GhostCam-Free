@@ -45,5 +45,3 @@ This project is **open-source** and distributed under the MIT License. You are f
 - [📢 **TELEGRAM CHANNEL** ➔](https://t.me/benzi_tools)
 
 ---
-
-Explore the possibilities with **GHOSTCAM - VIRTUALCAM - ANDROID V10.24** to create a virtual camera feed for any scenario!
